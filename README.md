@@ -20,3 +20,9 @@ Un **gran pooder** requiere *una* gran *responsabilidad*
 ## Imagenes
 ![Bitcubico Technology S.A.S.](https://marczak.io/images/netcore-vuejs/splash.png)
 [Ver imagen](https://marczak.io/images/netcore-vuejs/splash.png)
+
+## Links
+[Tutorial](https://www.markdowntutorial.com/)
+[Markdown para GIT](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Emoji GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
