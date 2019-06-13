@@ -25,4 +25,5 @@ Un **gran pooder** requiere *una* gran *responsabilidad*
  * [Tutorial](https://www.markdowntutorial.com/)
  * [Markdown para GIT](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
  * [Emoji GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+ * [Editor Online](https://stackedit.io/)
 
